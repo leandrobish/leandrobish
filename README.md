@@ -10,7 +10,3 @@
 
 ⚡ Curiosidade: Sou consagrado da comunidade católica shalom ( Missão Brasília), tenho 4 filhos, e apixonado por análise de dados.
 
-<!--
-**leandrobish/leandrobish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
