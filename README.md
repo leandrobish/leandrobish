@@ -1,12 +1,44 @@
-## Ola, meu nome é Leandro 👋
+# Olá, eu sou Leandro Silva 👋
 
-👨‍💻 Especialista em análise de dados  com mais de 10 anos de experiência em extração, modelagem e visualização de dados. Minha trajetória abrange desde a construção de arquiteturas de Data Lake e Data Warehouse até o desenvolvimento de pipelines em ambientes de nuvem, principalmente em Microsoft Azure e Fabric. Meu conjunto de habilidades também engloba o Qlik Sense, Power Designer , Python SAP-BW e Xmind.
+## Especialista em Business Intelligence e Engenharia de Dados
 
-🔭 Atualmente trabalho como Especialista BI, focado em desenvolver pepilines para coleta, processamento e armazenamento de dados no ambiente Fabric.
+Atuo há mais de 10 anos com **extração, modelagem, integração e visualização de dados**, transformando informações em soluções que apoiam decisões e melhoram processos de negócio.
 
-👯 Busco colaborar em projetos de engenharia de dados , qualidade de dados, processos, fluxos de ETL e gestão de dados.
+Minha experiência abrange a construção e evolução de ambientes de **Data Warehouse** e **Data Lake**, desenvolvimento de processos de ETL e criação de pipelines de dados em ambientes locais e na nuvem.
 
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/leandro-f-silva-721a4823/)
+Atualmente, trabalho como **Especialista em BI**, com foco na coleta, no processamento, na qualidade e no armazenamento de dados utilizando tecnologias do ecossistema Microsoft.
 
-⚡ Curiosidade: Sou consagrado da comunidade católica shalom ( Missão Brasília), tenho 4 filhos, e apixonado por análise de dados.
+## Principais competências
 
+- Microsoft Fabric e Azure
+- Qlik Sense e QlikView
+- Engenharia, integração e qualidade de dados
+- Modelagem dimensional e arquitetura de dados
+- Processos de ETL e pipelines de dados
+- Python e SQL
+- SAP BW
+- Visualização e análise de dados
+- Documentação, organização de processos e gestão do conhecimento
+
+## Interesses profissionais
+
+Tenho interesse em colaborar com projetos relacionados a:
+
+- engenharia e arquitetura de dados;
+- Business Intelligence;
+- governança e qualidade de dados;
+- automação de processos;
+- integração entre sistemas;
+- organização e democratização do conhecimento.
+
+## Projetos pessoais
+
+Estou desenvolvendo o **Portal do Conhecimento**, uma aplicação local para organizar atividades, estudos, músicas, documentações e rotinas de foco. O projeto reúne HTML, CSS, JavaScript e Node.js, com atenção especial à simplicidade de uso e à proteção de informações pessoais.
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Silva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-f-silva-721a4823/)
+
+## Um pouco sobre mim
+
+Sou consagrado da **Comunidade Católica Shalom — Missão Brasília**, pai de quatro filhos e apaixonado por dados, aprendizado contínuo, música e organização do conhecimento.
